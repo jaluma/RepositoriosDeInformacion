@@ -1,0 +1,12 @@
+[submodule "RI-JPA"]
+	path = RI-JPA
+	url = https://github.com/jaluma/RI-JPA.git
+[submodule "RI-Elastic"]
+	path = RI-Elastic
+	url = https://github.com/jaluma/RI-Elastic.git
+[submodule "RI-Neo4J"]
+	path = RI-Neo4J
+	url = https://github.com/jaluma/RI-Neo4J.git
+[submodule "RI-JDBC"]
+	path = RI-JDBC
+	url = https://github.com/jaluma/RI-JDBC.git
