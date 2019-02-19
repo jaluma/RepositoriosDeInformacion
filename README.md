@@ -4,20 +4,20 @@
 
 ```
 Java JDK 1.8
-.Net Framework 4.7.2
+Python 2.7
 ```
 
 ### Estilo de código hecho
 
 ```
 https://www.oracle.com/technetwork/java/codeconventions-150003.pdf
-https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/inside-a-program/coding-conventions
+https://www.python.org/dev/peps/pep-0008/
 ```
 
 ## Construido con
 
-* Java/.Net 4.7.2
-* Eclipse/Visual Studio 2017
+* Java      Python 2.7
+* Eclipse   Visual Studio 2017
 
 ## Autor trabajos individuales
 
