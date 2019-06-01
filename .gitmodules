@@ -1,12 +1,16 @@
 [submodule "RI-JPA"]
 	path = RI-JPA
 	url = https://github.com/jaluma/RI-JPA.git
+    	branch = master
 [submodule "RI-Elastic"]
 	path = RI-Elastic
 	url = https://github.com/jaluma/RI-Elastic.git
+    	branch = master
 [submodule "RI-Neo4J"]
 	path = RI-Neo4J
 	url = https://github.com/jaluma/RI-Neo4J.git
+    	branch = master
 [submodule "RI-JDBC"]
 	path = RI-JDBC
 	url = https://github.com/jaluma/RI-JDBC.git
+    	branch = master
